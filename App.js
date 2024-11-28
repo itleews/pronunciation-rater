@@ -315,7 +315,7 @@ const CircularScore = ({ score }) => {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.header}>국교토스대장정{"\n"}Pronunciation Rater</Text>
+        <Text style={styles.header}>Pronunciation Rater</Text>
       </View>
       <View style={styles.buttonContainer}>
         <TouchableOpacity
