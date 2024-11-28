@@ -1,4 +1,4 @@
-# PronunciationRater
+# Pronunciation Rater
 
 PronunciationRater는 Expo Snacks로 구현된 영어 발음 평가 애플리케이션으로, 발음 점수를 제공하여 영어 발음 실력 향상을 돕습니다.
 ETRI 발음평가 API를 사용하여 사용자가 발음한 문장을 분석하여 발음 점수를 제공합니다. 다양한 피드백을 통해 사용자는 영어 발음을 개선할 수 있습니다.
@@ -17,6 +17,6 @@ ETRI 발음평가 API에 대한 자세한 설명은 [AI API·DATA 사이트](htt
 
 - **React Native**: 앱 개발을 위한 프레임워크
 - **ETRI Open API**: 음성 인식에 사용되는 API
-- **JavaScript / JSX**: 앱 로직 구현
+- **JavaScript**: 앱 로직 구현
 - **Node.js**: 서버 사이드 환경
 - **React Navigation**: 화면 간 이동을 위한 라이브러리
